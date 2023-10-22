@@ -1,0 +1,22 @@
+[1.916s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/my_package -- -j16 -l16
+[1.953s] [100%] Built target my_node
+[1.962s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/my_package -- -j16 -l16
+[2.078s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/my_package
+[2.102s] -- Install configuration: ""
+[2.103s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/lib/my_package/my_node
+[2.103s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[2.103s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[2.103s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[2.103s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/environment/path.sh
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/environment/path.dsv
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/local_setup.bash
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/local_setup.sh
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/local_setup.zsh
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/local_setup.dsv
+[2.104s] -- Installing: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/package.dsv
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/ament_index/resource_index/packages/my_package
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[2.104s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/my_package/share/my_package/package.xml
+[2.109s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/my_package

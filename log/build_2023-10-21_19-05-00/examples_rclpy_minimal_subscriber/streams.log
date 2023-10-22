@@ -1,0 +1,25 @@
+[2.587s] Invoking command in '/home/samir/Documents/learning/ros2_ws/src/examples/rclpy/topics/minimal_subscriber': PYTHONPATH=/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed
+[2.887s] running egg_info
+[2.887s] writing ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[2.887s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[2.887s] writing entry points to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[2.887s] writing requirements to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[2.887s] writing top-level names to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[2.888s] reading manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[2.896s] writing manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[2.896s] running build
+[2.896s] running build_py
+[2.897s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.897s]   warnings.warn(
+[2.897s] running install
+[2.897s] running install_lib
+[2.929s] running install_data
+[2.930s] running install_egg_info
+[2.936s] removing '/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.1-py3.10.egg-info' (and everything under it)
+[2.943s] Copying ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.1-py3.10.egg-info
+[2.943s] running install_scripts
+[2.943s] Installing subscriber_lambda script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[2.944s] Installing subscriber_member_function script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[2.944s] Installing subscriber_old_school script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[2.944s] writing list of installed files to '/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log'
+[3.176s] Invoked command in '/home/samir/Documents/learning/ros2_ws/src/examples/rclpy/topics/minimal_subscriber' returned '0': PYTHONPATH=/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed

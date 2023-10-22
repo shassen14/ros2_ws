@@ -1,0 +1,26 @@
+[2.242s] Invoking command in '/home/samir/Documents/learning/ros2_ws/src/examples/rclpy/actions/minimal_action_client': PYTHONPATH=/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_client build --build-base /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_client/build install --record /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_client/install.log --single-version-externally-managed
+[2.667s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.667s]   warnings.warn(
+[2.667s] running egg_info
+[2.667s] writing ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/PKG-INFO
+[2.668s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/dependency_links.txt
+[2.668s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/entry_points.txt
+[2.668s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/requires.txt
+[2.668s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/top_level.txt
+[2.668s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[2.668s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[2.668s] running build
+[2.668s] running build_py
+[2.669s] running install
+[2.669s] running install_lib
+[2.669s] running install_data
+[2.669s] running install_egg_info
+[2.669s] removing '/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client-0.15.1-py3.10.egg-info' (and everything under it)
+[2.669s] Copying ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client-0.15.1-py3.10.egg-info
+[2.669s] running install_scripts
+[2.670s] Installing client script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[2.670s] Installing client_asyncio script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[2.670s] Installing client_cancel script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[2.670s] Installing client_not_composable script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[2.670s] writing list of installed files to '/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_client/install.log'
+[3.454s] Invoked command in '/home/samir/Documents/learning/ros2_ws/src/examples/rclpy/actions/minimal_action_client' returned '0': PYTHONPATH=/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_client build --build-base /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_client/build install --record /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_client/install.log --single-version-externally-managed

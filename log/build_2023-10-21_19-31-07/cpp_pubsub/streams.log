@@ -1,0 +1,24 @@
+[0.645s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/cpp_pubsub -- -j16 -l16
+[1.175s] [ 50%] Built target talker
+[1.176s] [100%] Built target listener
+[1.192s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/cpp_pubsub -- -j16 -l16
+[1.267s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/cpp_pubsub
+[1.297s] -- Install configuration: ""
+[1.297s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker
+[1.300s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/listener
+[1.304s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[1.305s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[1.305s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[1.305s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[1.305s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[1.306s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[1.306s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[1.306s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[1.311s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[1.311s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[1.311s] -- Installing: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[1.311s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[1.312s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[1.312s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[1.313s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[1.507s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/cpp_pubsub

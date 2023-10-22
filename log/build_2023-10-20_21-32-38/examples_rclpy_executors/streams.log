@@ -1,0 +1,33 @@
+[2.040s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_executors/build --no-deps install_data
+[2.366s] running develop
+[2.366s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.367s]   warnings.warn(
+[2.369s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.369s]   warnings.warn(
+[2.588s] running egg_info
+[2.588s] creating examples_rclpy_executors.egg-info
+[2.588s] writing examples_rclpy_executors.egg-info/PKG-INFO
+[2.588s] writing dependency_links to examples_rclpy_executors.egg-info/dependency_links.txt
+[2.588s] writing entry points to examples_rclpy_executors.egg-info/entry_points.txt
+[2.588s] writing requirements to examples_rclpy_executors.egg-info/requires.txt
+[2.588s] writing top-level names to examples_rclpy_executors.egg-info/top_level.txt
+[2.589s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.591s] reading manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.591s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.593s] running build_ext
+[2.593s] Creating /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples-rclpy-executors.egg-link (link to .)
+[2.595s] Installing callback_group script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.596s] Installing composed script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.596s] Installing custom_callback_group script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.596s] Installing custom_executor script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.597s] Installing listener script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.619s] Installing talker script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.621s] 
+[2.621s] Installed /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_executors
+[2.621s] running install_data
+[2.621s] creating /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/share/ament_index
+[2.621s] creating /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index
+[2.621s] creating /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[2.622s] copying resource/examples_rclpy_executors -> /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[2.622s] copying package.xml -> /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/share/examples_rclpy_executors
+[3.149s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_executors/build --no-deps install_data

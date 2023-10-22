@@ -1,0 +1,29 @@
+[0.561s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_action_client -- -j16 -l16
+[1.335s] [ 25%] Built target action_client_not_composable_with_cancel
+[1.335s] [ 50%] Built target action_client_member_functions
+[1.336s] [ 75%] Built target action_client_not_composable_with_feedback
+[1.337s] [100%] Built target action_client_not_composable
+[1.347s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_action_client -- -j16 -l16
+[1.436s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_action_client
+[1.484s] -- Install configuration: ""
+[1.485s] -- Execute custom install script
+[1.485s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions
+[1.486s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable
+[1.487s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel
+[1.487s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback
+[1.487s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_client
+[1.487s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_client
+[1.488s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.sh
+[1.488s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.dsv
+[1.488s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.sh
+[1.488s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.dsv
+[1.488s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.bash
+[1.488s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.sh
+[1.488s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.zsh
+[1.488s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.dsv
+[1.489s] -- Symlinking: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.dsv
+[1.489s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_client
+[1.489s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig.cmake
+[1.489s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig-version.cmake
+[1.489s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.xml
+[1.609s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_action_client

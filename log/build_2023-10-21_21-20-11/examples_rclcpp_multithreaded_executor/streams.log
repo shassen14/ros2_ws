@@ -1,0 +1,23 @@
+[0.276s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j16 -l16
+[1.047s] [100%] Built target multithreaded_executor
+[1.054s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j16 -l16
+[1.125s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_multithreaded_executor
+[1.171s] -- Install configuration: ""
+[1.171s] -- Execute custom install script
+[1.172s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/lib/examples_rclcpp_multithreaded_executor/multithreaded_executor
+[1.172s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_multithreaded_executor
+[1.172s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_multithreaded_executor
+[1.172s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.sh
+[1.172s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.dsv
+[1.173s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.sh
+[1.174s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.dsv
+[1.174s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.bash
+[1.175s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.sh
+[1.176s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.zsh
+[1.176s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.dsv
+[1.177s] -- Symlinking: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.dsv
+[1.182s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/packages/examples_rclcpp_multithreaded_executor
+[1.182s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig.cmake
+[1.182s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig-version.cmake
+[1.183s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.xml
+[1.569s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_multithreaded_executor

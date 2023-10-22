@@ -1,0 +1,11 @@
+[01m[K/home/samir/Documents/learning/ros2_ws/src/examples/rclcpp/topics/minimal_publisher/member_function.cpp:46:4:[m[K [01;31m[Kerror: [m[K‘[01m[KCMAKE[m[K’ does not name a type
+   46 |   }[01;31m[KCMAKE[m[K
+      |    [01;31m[K^~~~~[m[K
+[01m[K/home/samir/Documents/learning/ros2_ws/src/examples/rclcpp/topics/minimal_publisher/member_function.cpp:[m[K In constructor ‘[01m[KMinimalPublisher::MinimalPublisher()[m[K’:
+[01m[K/home/samir/Documents/learning/ros2_ws/src/examples/rclcpp/topics/minimal_publisher/member_function.cpp:35:5:[m[K [01;31m[Kerror: [m[K‘[01m[Ktimer_[m[K’ was not declared in this scope; did you mean ‘[01m[Ktimer_t[m[K’?
+   35 |     [01;31m[Ktimer_[m[K = this->create_wall_timer(
+      |     [01;31m[K^~~~~~[m[K
+      |     [32m[Ktimer_t[m[K
+gmake[2]: *** [CMakeFiles/publisher_member_function.dir/build.make:76: CMakeFiles/publisher_member_function.dir/member_function.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:173: CMakeFiles/publisher_member_function.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

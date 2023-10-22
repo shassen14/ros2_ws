@@ -1,0 +1,23 @@
+[0.364s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_service -- -j16 -l16
+[1.158s] [100%] Built target service_main
+[1.165s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_service -- -j16 -l16
+[1.252s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_service
+[1.289s] -- Install configuration: ""
+[1.291s] -- Execute custom install script
+[1.291s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/lib/examples_rclcpp_minimal_service/service_main
+[1.291s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_service
+[1.292s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_service
+[1.295s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/ament_prefix_path.sh
+[1.296s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/ament_prefix_path.dsv
+[1.297s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/path.sh
+[1.300s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/path.dsv
+[1.301s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.bash
+[1.303s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.sh
+[1.304s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.zsh
+[1.305s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.dsv
+[1.305s] -- Symlinking: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/package.dsv
+[1.311s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/packages/examples_rclcpp_minimal_service
+[1.313s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/cmake/examples_rclcpp_minimal_serviceConfig.cmake
+[1.313s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/cmake/examples_rclcpp_minimal_serviceConfig-version.cmake
+[1.313s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/package.xml
+[1.628s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_minimal_service

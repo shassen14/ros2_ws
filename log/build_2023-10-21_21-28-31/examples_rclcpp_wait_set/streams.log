@@ -1,0 +1,46 @@
+[0.226s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_wait_set -- -j16 -l16
+[0.993s] [  8%] Built target wait_set_talker
+[0.994s] [ 16%] Built target listener
+[0.994s] [ 25%] Built target talker
+[0.994s] [ 37%] Built target wait_set
+[0.994s] [ 41%] Built target wait_set_listener
+[0.994s] [ 50%] Built target thread_safe_wait_set
+[0.994s] [ 58%] Built target static_wait_set
+[0.994s] [ 66%] Built target wait_set_random_order
+[0.994s] [ 75%] Built target wait_set_topics_and_timer
+[0.994s] [ 83%] Built target executor_random_order
+[0.995s] [ 91%] Built target wait_set_topics_with_different_rates
+[0.995s] [100%] Built target wait_set_composed
+[1.003s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_wait_set -- -j16 -l16
+[1.107s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_wait_set
+[1.163s] -- Install configuration: ""
+[1.163s] -- Execute custom install script
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[1.164s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[1.165s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[1.165s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[1.165s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[1.165s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[1.165s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[1.166s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[1.166s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[1.166s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[1.166s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[1.166s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[1.167s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[1.167s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[1.167s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[1.167s] -- Symlinking: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[1.167s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[1.168s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[1.168s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[1.168s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[1.168s] -- Up-to-date symlink: /home/samir/Documents/learning/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[1.696s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/examples_rclcpp_wait_set

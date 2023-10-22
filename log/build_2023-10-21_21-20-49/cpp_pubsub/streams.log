@@ -1,0 +1,31 @@
+[0.097s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/cpp_pubsub': AMENT_PREFIX_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/cpp_pubsub -- -j16 -l16
+[0.164s] [ 25%] Built target listener
+[0.164s] [ 50%] Built target listener_custom
+[0.169s] [ 87%] Built target talker_custom
+[0.170s] [ 87%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[3.607s] [100%] [32m[1mLinking CXX executable talker[0m
+[3.754s] [100%] Built target talker
+[3.760s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/cpp_pubsub' returned '0': AMENT_PREFIX_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /home/samir/.local/bin/cmake --build /home/samir/Documents/learning/ros2_ws/build/cpp_pubsub -- -j16 -l16
+[3.797s] Invoking command in '/home/samir/Documents/learning/ros2_ws/build/cpp_pubsub': AMENT_PREFIX_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/cpp_pubsub
+[3.816s] -- Install configuration: ""
+[3.817s] -- Installing: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker
+[3.818s] -- Set runtime path of "/home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[3.818s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/listener
+[3.818s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker_custom
+[3.818s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/listener_custom
+[3.818s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[3.819s] -- Installing: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[3.819s] -- Up-to-date: /home/samir/Documents/learning/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[3.823s] Invoked command in '/home/samir/Documents/learning/ros2_ws/build/cpp_pubsub' returned '0': AMENT_PREFIX_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/samir/Documents/learning/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /home/samir/.local/bin/cmake --install /home/samir/Documents/learning/ros2_ws/build/cpp_pubsub

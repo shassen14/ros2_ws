@@ -1,0 +1,27 @@
+[2.953s] Invoking command in '/home/samir/Documents/learning/ros2_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
+[3.186s] running egg_info
+[3.188s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[3.188s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[3.188s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[3.192s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[3.192s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[3.193s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[3.193s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[3.193s] running build
+[3.193s] running build_py
+[3.193s] running install
+[3.194s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.194s]   warnings.warn(
+[3.194s] running install_lib
+[3.195s] running install_data
+[3.196s] running install_egg_info
+[3.198s] removing '/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info' (and everything under it)
+[3.198s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info
+[3.199s] running install_scripts
+[3.222s] Installing server script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.222s] Installing server_defer script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.223s] Installing server_not_composable script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.223s] Installing server_queue_goals script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.223s] Installing server_single_goal script to /home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.223s] writing list of installed files to '/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_server/install.log'
+[3.343s] Invoked command in '/home/samir/Documents/learning/ros2_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/samir/Documents/learning/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/samir/Documents/learning/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
