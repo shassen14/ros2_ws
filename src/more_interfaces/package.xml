@@ -3,9 +3,9 @@
 <package format="3">
   <name>more_interfaces</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>C++ custom interface tutorial</description>
   <maintainer email="samirhassen14@gmail.com">samir</maintainer>
-  <license>TODO: License declaration</license>
+  <license>Apache License 2.0</license>
 
   <!-- added to create custom messages/services?-->
   <buildtool_depend>rosidl_default_generators</buildtool_depend>
