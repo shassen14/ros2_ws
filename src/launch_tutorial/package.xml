@@ -3,7 +3,7 @@
 <package format="3">
   <name>launch_tutorial</name>
   <version>0.0.0</version>
-  <description>Launch substitutions and event handlers tutorial</description>
+  <description>Launch substitutions, event handlers, and large projects tutorial</description>
   <maintainer email="samirhassen14@gmail.com">samir</maintainer>
   <license>Apache License 2.0</license>
 

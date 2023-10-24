@@ -1,0 +1,5 @@
+/*/sim:
+   ros__parameters:
+      background_b: 125
+      background_g: 86
+      background_r: 150
