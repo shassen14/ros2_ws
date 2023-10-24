@@ -3,7 +3,7 @@
 <package format="3">
   <name>learning_tf2_cpp</name>
   <version>0.0.0</version>
-  <description>C++ tf2 static broadcaster and broadcaster</description>
+  <description>C++ tf2 static broadcaster, broadcaster, and listener</description>
   <maintainer email="samirhassen14@gmail.com">samir</maintainer>
   <license>Apache License 2.0</license>
 
